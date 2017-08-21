@@ -26,5 +26,3 @@ function addCursorText(text, className, dx, dy, duration, fadeDuration, event, d
         }, fadeDuration);
     }, duration - fadeDuration);
 }
-
-export { addCursorText };
